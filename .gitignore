@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+qdrant_storage/
+.DS_Store
+# 공개 저장소: 사내 정책 데이터와 골드셋은 올리지 않는다
+golden.jsonl
